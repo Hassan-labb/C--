@@ -1,0 +1,7 @@
+@startuml class_example
+A --> B
+A : attribute
+A : behavior()
+B : attribute
+B : behavior()
+@enduml
